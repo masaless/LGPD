@@ -7,4 +7,4 @@ O site tem informações de como se adequar a Lei Geral de Proteção de Dados P
 
 
 
-<a href="https://masaless.github.io/LGPD/" target="_Blank">Acesse o resultado final do site</a>
+<a href="https://masaless.github.io/LGPD/" target="_blank">Acesse o resultado final do site</a>
